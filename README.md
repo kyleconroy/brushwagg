@@ -1,0 +1,1 @@
+Pull down limited information from magiccards.info
